@@ -1,2 +1,1 @@
-geometry
-========
+Small repository to save a set of C# implementation of geometric functions
