@@ -32,7 +32,7 @@ namespace Foo
             var dy = p1.Y - p2.Y;
             double dist = Math.Sqrt(dx * dx + dy * dy);
 
-            // See how manhym solutions there are.
+            // See how many solutions there are.
             if (dist > radius0 + radius1)
             {
                 // No solutions, the circles are too far apart.
